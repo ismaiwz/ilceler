@@ -1,0 +1,5029 @@
+{
+    "Adana": {
+        "Aladağ": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1757
+        },
+        "Ceyhan": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1219
+        },
+        "Çukurova": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2033
+        },
+        "Feke": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1329
+        },
+        "İmamoğlu": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1806
+        },
+        "Karaisalı": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1437
+        },
+        "Karataş": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1443
+        },
+        "Kozan": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1486
+        },
+        "Pozantı": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1580
+        },
+        "Saimbeyli": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1588
+        },
+        "Sarıçam": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2032
+        },
+        "Seyhan": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1104
+        },
+        "Tufanbeyli": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1687
+        },
+        "Yumurtalık": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1734
+        },
+        "Yüreğir": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1748
+        }
+    },
+    "Adıyaman": {
+        "Besni": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1182
+        },
+        "Çelikhan": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1246
+        },
+        "Gerger": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1347
+        },
+        "Gölbaşı": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1354
+        },
+        "Kahta": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1425
+        },
+        "Merkez": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1105
+        },
+        "Samsat": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1592
+        },
+        "Sincik": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1985
+        },
+        "Tut": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1989
+        }
+    },
+    "Afyonkarahisar": {
+        "Başmakçı": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1771
+        },
+        "Bayat": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1773
+        },
+        "Bolvadin": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1200
+        },
+        "Çay": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1239
+        },
+        "Çobanlar": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1906
+        },
+        "Dazkırı": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1267
+        },
+        "Dinar": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1281
+        },
+        "Emirdağ": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1306
+        },
+        "Evciler": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1923
+        },
+        "Hocalar": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1944
+        },
+        "İhsaniye": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1404
+        },
+        "İscehisar": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1809
+        },
+        "Kızılören": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1961
+        },
+        "Merkez": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1108
+        },
+        "Sandıklı": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1594
+        },
+        "Sinanpaşa": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1626
+        },
+        "Sultandağı": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1639
+        },
+        "Şuhut": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1664
+        }
+    },
+    "Ağrı": {
+        "Diyadin": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1283
+        },
+        "Doğubayazıt": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1287
+        },
+        "Eleşkirt": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1301
+        },
+        "Hamur": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1379
+        },
+        "Merkez": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1111
+        },
+        "Patnos": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1568
+        },
+        "Taşlıçay": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1667
+        },
+        "Tutak": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1691
+        }
+    },
+    "Amasya": {
+        "Göynücek": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1363
+        },
+        "Gümüşhacıköy": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1368
+        },
+        "Hamamözü": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1938
+        },
+        "Merkez": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1134
+        },
+        "Merzifon": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1524
+        },
+        "Suluova": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1641
+        },
+        "Taşova": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1668
+        }
+    },
+    "Ankara": {
+        "Akyurt": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1872
+        },
+        "Altındağ": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1130
+        },
+        "Ayaş": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1157
+        },
+        "Bala": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1167
+        },
+        "Beypazarı": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1187
+        },
+        "Çamlıdere": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1227
+        },
+        "Çankaya": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1231
+        },
+        "Çubuk": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1260
+        },
+        "Elmadağ": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1302
+        },
+        "Etimesgut": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1922
+        },
+        "Evren": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1924
+        },
+        "Gölbaşı": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1744
+        },
+        "Güdül": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1365
+        },
+        "Haymana": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1387
+        },
+        "Kahramankazan": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1815
+        },
+        "Kalecik": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1427
+        },
+        "Keçiören": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1745
+        },
+        "Kızılcahamam": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1473
+        },
+        "Mamak": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1746
+        },
+        "Nallıhan": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1539
+        },
+        "Polatlı": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1578
+        },
+        "Pursaklar": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2034
+        },
+        "Sincan": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1747
+        },
+        "Şereflikoçhisar": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1658
+        },
+        "Yenimahalle": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1723
+        }
+    },
+    "Antalya": {
+        "Akseki": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1121
+        },
+        "Aksu": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2035
+        },
+        "Alanya": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1126
+        },
+        "Demre": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1811
+        },
+        "Döşemealtı": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2036
+        },
+        "Elmalı": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1303
+        },
+        "Finike": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1333
+        },
+        "Gazipaşa": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1337
+        },
+        "Gündoğmuş": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1370
+        },
+        "İbradı": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1946
+        },
+        "Kaş": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1451
+        },
+        "Kemer": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1959
+        },
+        "Kepez": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2037
+        },
+        "Konyaaltı": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2038
+        },
+        "Korkuteli": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1483
+        },
+        "Kumluca": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1492
+        },
+        "Manavgat": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1512
+        },
+        "Muratpaşa": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2039
+        },
+        "Serik": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1616
+        }
+    },
+    "Artvin": {
+        "Ardanuç": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1145
+        },
+        "Arhavi": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1147
+        },
+        "Borçka": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1202
+        },
+        "Hopa": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1395
+        },
+        "Kemalpaşa": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2105
+        },
+        "Merkez": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1152
+        },
+        "Murgul": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1828
+        },
+        "Şavşat": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1653
+        },
+        "Yusufeli": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1736
+        }
+    },
+    "Aydın": {
+        "Bozdoğan": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1206
+        },
+        "Buharkent": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1781
+        },
+        "Çine": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1256
+        },
+        "Didim": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2000
+        },
+        "Efeler": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2076
+        },
+        "Germencik": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1348
+        },
+        "İncirliova": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1807
+        },
+        "Karacasu": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1435
+        },
+        "Karpuzlu": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1957
+        },
+        "Koçarlı": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1479
+        },
+        "Köşk": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1968
+        },
+        "Kuşadası": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1497
+        },
+        "Kuyucak": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1498
+        },
+        "Nazilli": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1542
+        },
+        "Söke": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1637
+        },
+        "Sultanhisar": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1640
+        },
+        "Yenipazar": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1724
+        }
+    },
+    "Balıkesir": {
+        "Altıeylül": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2077
+        },
+        "Ayvalık": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1161
+        },
+        "Balya": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1169
+        },
+        "Bandırma": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1171
+        },
+        "Bigadiç": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1191
+        },
+        "Burhaniye": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1216
+        },
+        "Dursunbey": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1291
+        },
+        "Edremit": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1294
+        },
+        "Erdek": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1310
+        },
+        "Gömeç": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1928
+        },
+        "Gönen": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1360
+        },
+        "Havran": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1384
+        },
+        "İvrindi": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1418
+        },
+        "Karesi": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2078
+        },
+        "Kepsut": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1462
+        },
+        "Manyas": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1514
+        },
+        "Marmara": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1824
+        },
+        "Savaştepe": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1608
+        },
+        "Sındırgı": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1619
+        },
+        "Susurluk": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1644
+        }
+    },
+    "Bilecik": {
+        "Bozüyük": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1210
+        },
+        "Gölpazarı": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1359
+        },
+        "İnhisar": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1948
+        },
+        "Merkez": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1192
+        },
+        "Osmaneli": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1559
+        },
+        "Pazaryeri": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1571
+        },
+        "Söğüt": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1636
+        },
+        "Yenipazar": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1857
+        }
+    },
+    "Bingöl": {
+        "Adaklı": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1750
+        },
+        "Genç": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1344
+        },
+        "Karlıova": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1446
+        },
+        "Kiğı": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1475
+        },
+        "Merkez": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1193
+        },
+        "Solhan": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1633
+        },
+        "Yayladere": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1855
+        },
+        "Yedisu": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1996
+        }
+    },
+    "Bitlis": {
+        "Adilcevaz": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1106
+        },
+        "Ahlat": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1112
+        },
+        "Güroymak": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1798
+        },
+        "Hizan": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1394
+        },
+        "Merkez": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1196
+        },
+        "Mutki": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1537
+        },
+        "Tatvan": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1669
+        }
+    },
+    "Bolu": {
+        "Dörtdivan": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1916
+        },
+        "Gerede": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1346
+        },
+        "Göynük": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1364
+        },
+        "Kıbrıscık": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1466
+        },
+        "Mengen": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1522
+        },
+        "Merkez": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1199
+        },
+        "Mudurnu": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1531
+        },
+        "Seben": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1610
+        },
+        "Yeniçağa": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1997
+        }
+    },
+    "Burdur": {
+        "Ağlasun": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1109
+        },
+        "Altınyayla": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1874
+        },
+        "Bucak": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1211
+        },
+        "Çavdır": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1899
+        },
+        "Çeltikçi": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1903
+        },
+        "Gölhisar": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1357
+        },
+        "Karamanlı": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1813
+        },
+        "Kemer": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1816
+        },
+        "Merkez": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1215
+        },
+        "Tefenni": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1672
+        },
+        "Yeşilova": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1728
+        }
+    },
+    "Bursa": {
+        "Büyükorhan": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1783
+        },
+        "Gemlik": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1343
+        },
+        "Gürsu": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1935
+        },
+        "Harmancık": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1799
+        },
+        "İnegöl": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1411
+        },
+        "İznik": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1420
+        },
+        "Karacabey": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1434
+        },
+        "Keles": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1457
+        },
+        "Kestel": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1960
+        },
+        "Mudanya": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1530
+        },
+        "Mustafakemalpaşa": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1535
+        },
+        "Nilüfer": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1829
+        },
+        "Orhaneli": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1553
+        },
+        "Orhangazi": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1554
+        },
+        "Osmangazi": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1832
+        },
+        "Yenişehir": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1725
+        },
+        "Yıldırım": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1859
+        }
+    },
+    "Çanakkale": {
+        "Ayvacık": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1160
+        },
+        "Bayramiç": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1180
+        },
+        "Biga": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1190
+        },
+        "Bozcaada": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1205
+        },
+        "Çan": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1229
+        },
+        "Eceabat": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1293
+        },
+        "Ezine": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1326
+        },
+        "Gelibolu": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1340
+        },
+        "Gökçeada": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1408
+        },
+        "Lapseki": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1503
+        },
+        "Merkez": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1230
+        },
+        "Yenice": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1722
+        }
+    },
+    "Çankırı": {
+        "Atkaracalar": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1765
+        },
+        "Bayramören": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1885
+        },
+        "Çerkeş": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1248
+        },
+        "Eldivan": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1300
+        },
+        "Ilgaz": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1399
+        },
+        "Kızılırmak": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1817
+        },
+        "Korgun": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1963
+        },
+        "Kurşunlu": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1494
+        },
+        "Merkez": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1232
+        },
+        "Orta": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1555
+        },
+        "Şabanözü": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1649
+        },
+        "Yapraklı": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1718
+        }
+    },
+    "Çorum": {
+        "Alaca": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1124
+        },
+        "Bayat": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1177
+        },
+        "Boğazkale": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1778
+        },
+        "Dodurga": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1911
+        },
+        "İskilip": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1414
+        },
+        "Kargı": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1445
+        },
+        "Laçin": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1972
+        },
+        "Mecitözü": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1520
+        },
+        "Merkez": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1259
+        },
+        "Oğuzlar": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1976
+        },
+        "Ortaköy": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1556
+        },
+        "Osmancık": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1558
+        },
+        "Sungurlu": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1642
+        },
+        "Uğurludağ": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1850
+        }
+    },
+    "Denizli": {
+        "Acıpayam": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1102
+        },
+        "Babadağ": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1769
+        },
+        "Baklan": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1881
+        },
+        "Bekilli": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1774
+        },
+        "Beyağaç": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1888
+        },
+        "Bozkurt": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1889
+        },
+        "Buldan": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1214
+        },
+        "Çal": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1224
+        },
+        "Çameli": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1226
+        },
+        "Çardak": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1233
+        },
+        "Çivril": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1257
+        },
+        "Güney": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1371
+        },
+        "Honaz": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1803
+        },
+        "Kale": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1426
+        },
+        "Merkezefendi": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2079
+        },
+        "Pamukkale": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1871
+        },
+        "Sarayköy": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1597
+        },
+        "Serinhisar": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1840
+        },
+        "Tavas": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1670
+        }
+    },
+    "Diyarbakır": {
+        "Bağlar": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2040
+        },
+        "Bismil": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1195
+        },
+        "Çermik": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1249
+        },
+        "Çınar": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1253
+        },
+        "Çüngüş": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1263
+        },
+        "Dicle": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1278
+        },
+        "Eğil": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1791
+        },
+        "Ergani": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1315
+        },
+        "Hani": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1381
+        },
+        "Hazro": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1389
+        },
+        "Kayapınar": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2041
+        },
+        "Kocaköy": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1962
+        },
+        "Kulp": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1490
+        },
+        "Lice": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1504
+        },
+        "Silvan": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1624
+        },
+        "Sur": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2042
+        },
+        "Yenişehir": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2043
+        }
+    },
+    "Edirne": {
+        "Enez": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1307
+        },
+        "Havsa": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1385
+        },
+        "İpsala": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1412
+        },
+        "Keşan": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1464
+        },
+        "Lalapaşa": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1502
+        },
+        "Meriç": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1523
+        },
+        "Merkez": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1295
+        },
+        "Süloğlu": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1988
+        },
+        "Uzunköprü": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1705
+        }
+    },
+    "Elazığ": {
+        "Ağın": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1110
+        },
+        "Alacakaya": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1873
+        },
+        "Arıcak": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1762
+        },
+        "Baskil": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1173
+        },
+        "Karakoçan": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1438
+        },
+        "Keban": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1455
+        },
+        "Kovancılar": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1820
+        },
+        "Maden": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1506
+        },
+        "Merkez": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1298
+        },
+        "Palu": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1566
+        },
+        "Sivrice": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1631
+        }
+    },
+    "Erzincan": {
+        "Çayırlı": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1243
+        },
+        "İliç": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1406
+        },
+        "Kemah": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1459
+        },
+        "Kemaliye": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1460
+        },
+        "Merkez": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1318
+        },
+        "Otlukbeli": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1977
+        },
+        "Refahiye": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1583
+        },
+        "Tercan": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1675
+        },
+        "Üzümlü": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1853
+        }
+    },
+    "Erzurum": {
+        "Aşkale": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1153
+        },
+        "Aziziye": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1945
+        },
+        "Çat": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1235
+        },
+        "Hınıs": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1392
+        },
+        "Horasan": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1396
+        },
+        "İspir": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1416
+        },
+        "Karaçoban": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1812
+        },
+        "Karayazı": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1444
+        },
+        "Köprüköy": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1967
+        },
+        "Narman": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1540
+        },
+        "Oltu": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1550
+        },
+        "Olur": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1551
+        },
+        "Palandöken": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2044
+        },
+        "Pasinler": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1567
+        },
+        "Pazaryolu": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1865
+        },
+        "Şenkaya": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1657
+        },
+        "Tekman": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1674
+        },
+        "Tortum": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1683
+        },
+        "Uzundere": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1851
+        },
+        "Yakutiye": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2045
+        }
+    },
+    "Eskişehir": {
+        "Alpu": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1759
+        },
+        "Beylikova": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1777
+        },
+        "Çifteler": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1255
+        },
+        "Günyüzü": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1934
+        },
+        "Han": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1939
+        },
+        "İnönü": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1808
+        },
+        "Mahmudiye": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1508
+        },
+        "Mihalgazi": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1973
+        },
+        "Mihalıççık": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1527
+        },
+        "Odunpazarı": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2046
+        },
+        "Sarıcakaya": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1599
+        },
+        "Seyitgazi": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1618
+        },
+        "Sivrihisar": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1632
+        },
+        "Tepebaşı": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2047
+        }
+    },
+    "Gaziantep": {
+        "Araban": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1139
+        },
+        "İslahiye": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1415
+        },
+        "Karkamış": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1956
+        },
+        "Nizip": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1546
+        },
+        "Nurdağı": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1974
+        },
+        "Oğuzeli": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1549
+        },
+        "Şahinbey": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1841
+        },
+        "Şehitkamil": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1844
+        },
+        "Yavuzeli": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1720
+        }
+    },
+    "Giresun": {
+        "Alucra": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1133
+        },
+        "Bulancak": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1212
+        },
+        "Çamoluk": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1893
+        },
+        "Çanakçı": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1894
+        },
+        "Dereli": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1272
+        },
+        "Doğankent": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1912
+        },
+        "Espiye": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1320
+        },
+        "Eynesil": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1324
+        },
+        "Görele": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1361
+        },
+        "Güce": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1930
+        },
+        "Keşap": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1465
+        },
+        "Merkez": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1352
+        },
+        "Piraziz": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1837
+        },
+        "Şebinkarahisar": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1654
+        },
+        "Tirebolu": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1678
+        },
+        "Yağlıdere": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1854
+        }
+    },
+    "Gümüşhane": {
+        "Kelkit": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1458
+        },
+        "Köse": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1822
+        },
+        "Kürtün": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1971
+        },
+        "Merkez": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1369
+        },
+        "Şiran": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1660
+        },
+        "Torul": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1684
+        }
+    },
+    "Hakkari": {
+        "Çukurca": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1261
+        },
+        "Derecik": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2107
+        },
+        "Merkez": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1377
+        },
+        "Şemdinli": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1656
+        },
+        "Yüksekova": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1737
+        }
+    },
+    "Hatay": {
+        "Altınözü": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1131
+        },
+        "Antakya": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2080
+        },
+        "Arsuz": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2081
+        },
+        "Belen": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1887
+        },
+        "Defne": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2082
+        },
+        "Dörtyol": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1289
+        },
+        "Erzin": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1792
+        },
+        "Hassa": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1382
+        },
+        "İskenderun": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1413
+        },
+        "Kırıkhan": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1468
+        },
+        "Kumlu": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1970
+        },
+        "Payas": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2083
+        },
+        "Reyhanlı": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1585
+        },
+        "Samandağ": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1591
+        },
+        "Yayladağı": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1721
+        }
+    },
+    "Isparta": {
+        "Aksu": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1755
+        },
+        "Atabey": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1154
+        },
+        "Eğirdir": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1297
+        },
+        "Gelendost": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1341
+        },
+        "Gönen": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1929
+        },
+        "Keçiborlu": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1456
+        },
+        "Merkez": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1401
+        },
+        "Senirkent": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1615
+        },
+        "Sütçüler": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1648
+        },
+        "Şarkikaraağaç": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1651
+        },
+        "Uluborlu": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1699
+        },
+        "Yalvaç": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1717
+        },
+        "Yenişarbademli": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2001
+        }
+    },
+    "Mersin": {
+        "Akdeniz": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2064
+        },
+        "Anamur": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1135
+        },
+        "Aydıncık": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1766
+        },
+        "Bozyazı": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1779
+        },
+        "Çamlıyayla": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1892
+        },
+        "Erdemli": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1311
+        },
+        "Gülnar": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1366
+        },
+        "Mezitli": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2065
+        },
+        "Mut": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1536
+        },
+        "Silifke": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1621
+        },
+        "Tarsus": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1665
+        },
+        "Toroslar": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2066
+        },
+        "Yenişehir": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2067
+        }
+    },
+    "İstanbul": {
+        "Adalar": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1103
+        },
+        "Arnavutköy": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2048
+        },
+        "Ataşehir": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2049
+        },
+        "Avcılar": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2003
+        },
+        "Bağcılar": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2004
+        },
+        "Bahçelievler": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2005
+        },
+        "Bakırköy": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1166
+        },
+        "Başakşehir": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2050
+        },
+        "Bayrampaşa": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1886
+        },
+        "Beşiktaş": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1183
+        },
+        "Beykoz": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1185
+        },
+        "Beylikdüzü": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2051
+        },
+        "Beyoğlu": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1186
+        },
+        "Büyükçekmece": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1782
+        },
+        "Çatalca": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1237
+        },
+        "Çekmeköy": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2052
+        },
+        "Esenler": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2016
+        },
+        "Esenyurt": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2053
+        },
+        "Eyüpsultan": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1325
+        },
+        "Fatih": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1327
+        },
+        "Gaziosmanpaşa": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1336
+        },
+        "Güngören": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2010
+        },
+        "Kadıköy": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1421
+        },
+        "Kağıthane": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1810
+        },
+        "Kartal": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1449
+        },
+        "Küçükçekmece": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1823
+        },
+        "Maltepe": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2012
+        },
+        "Pendik": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1835
+        },
+        "Sancaktepe": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2054
+        },
+        "Sarıyer": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1604
+        },
+        "Silivri": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1622
+        },
+        "Sultanbeyli": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2014
+        },
+        "Sultangazi": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2055
+        },
+        "Şile": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1659
+        },
+        "Şişli": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1663
+        },
+        "Tuzla": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2015
+        },
+        "Ümraniye": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1852
+        },
+        "Üsküdar": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1708
+        },
+        "Zeytinburnu": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1739
+        }
+    },
+    "İzmir": {
+        "Aliağa": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1128
+        },
+        "Balçova": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2006
+        },
+        "Bayındır": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1178
+        },
+        "Bayraklı": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2056
+        },
+        "Bergama": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1181
+        },
+        "Beydağ": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1776
+        },
+        "Bornova": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1203
+        },
+        "Buca": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1780
+        },
+        "Çeşme": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1251
+        },
+        "Çiğli": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2007
+        },
+        "Dikili": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1280
+        },
+        "Foça": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1334
+        },
+        "Gaziemir": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2009
+        },
+        "Güzelbahçe": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2018
+        },
+        "Karabağlar": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2057
+        },
+        "Karaburun": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1432
+        },
+        "Karşıyaka": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1448
+        },
+        "Kemalpaşa": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1461
+        },
+        "Kınık": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1467
+        },
+        "Kiraz": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1477
+        },
+        "Konak": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1819
+        },
+        "Menderes": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1826
+        },
+        "Menemen": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1521
+        },
+        "Narlıdere": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2013
+        },
+        "Ödemiş": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1563
+        },
+        "Seferihisar": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1611
+        },
+        "Selçuk": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1612
+        },
+        "Tire": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1677
+        },
+        "Torbalı": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1682
+        },
+        "Urla": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1703
+        }
+    },
+    "Kars": {
+        "Akyaka": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1756
+        },
+        "Arpaçay": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1149
+        },
+        "Digor": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1279
+        },
+        "Kağızman": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1424
+        },
+        "Merkez": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1447
+        },
+        "Sarıkamış": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1601
+        },
+        "Selim": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1614
+        },
+        "Susuz": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1645
+        }
+    },
+    "Kastamonu": {
+        "Abana": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1101
+        },
+        "Ağlı": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1867
+        },
+        "Araç": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1140
+        },
+        "Azdavay": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1162
+        },
+        "Bozkurt": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1208
+        },
+        "Cide": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1221
+        },
+        "Çatalzeytin": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1238
+        },
+        "Daday": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1264
+        },
+        "Devrekani": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1277
+        },
+        "Doğanyurt": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1915
+        },
+        "Hanönü": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1940
+        },
+        "İhsangazi": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1805
+        },
+        "İnebolu": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1410
+        },
+        "Küre": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1499
+        },
+        "Merkez": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1450
+        },
+        "Pınarbaşı": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1836
+        },
+        "Seydiler": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1984
+        },
+        "Şenpazar": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1845
+        },
+        "Taşköprü": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1666
+        },
+        "Tosya": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1685
+        }
+    },
+    "Kayseri": {
+        "Akkışla": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1752
+        },
+        "Bünyan": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1218
+        },
+        "Develi": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1275
+        },
+        "Felahiye": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1330
+        },
+        "Hacılar": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1936
+        },
+        "İncesu": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1409
+        },
+        "Kocasinan": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1863
+        },
+        "Melikgazi": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1864
+        },
+        "Özvatan": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1978
+        },
+        "Pınarbaşı": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1576
+        },
+        "Sarıoğlan": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1603
+        },
+        "Sarız": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1605
+        },
+        "Talas": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1846
+        },
+        "Tomarza": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1680
+        },
+        "Yahyalı": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1715
+        },
+        "Yeşilhisar": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1727
+        }
+    },
+    "Kırklareli": {
+        "Babaeski": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1163
+        },
+        "Demirköy": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1270
+        },
+        "Kofçaz": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1480
+        },
+        "Lüleburgaz": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1505
+        },
+        "Merkez": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1471
+        },
+        "Pehlivanköy": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1572
+        },
+        "Pınarhisar": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1577
+        },
+        "Vize": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1714
+        }
+    },
+    "Kırşehir": {
+        "Akçakent": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1869
+        },
+        "Akpınar": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1754
+        },
+        "Boztepe": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1890
+        },
+        "Çiçekdağı": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1254
+        },
+        "Kaman": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1429
+        },
+        "Merkez": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1472
+        },
+        "Mucur": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1529
+        }
+    },
+    "Kocaeli": {
+        "Başiskele": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2058
+        },
+        "Çayırova": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2059
+        },
+        "Darıca": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2060
+        },
+        "Derince": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2030
+        },
+        "Dilovası": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2061
+        },
+        "Gebze": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1338
+        },
+        "Gölcük": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1355
+        },
+        "İzmit": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2062
+        },
+        "Kandıra": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1430
+        },
+        "Karamürsel": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1440
+        },
+        "Kartepe": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2063
+        },
+        "Körfez": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1821
+        }
+    },
+    "Konya": {
+        "Ahırlı": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1868
+        },
+        "Akören": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1753
+        },
+        "Akşehir": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1122
+        },
+        "Altınekin": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1760
+        },
+        "Beyşehir": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1188
+        },
+        "Bozkır": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1207
+        },
+        "Cihanbeyli": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1222
+        },
+        "Çeltik": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1902
+        },
+        "Çumra": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1262
+        },
+        "Derbent": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1907
+        },
+        "Derebucak": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1789
+        },
+        "Doğanhisar": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1285
+        },
+        "Emirgazi": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1920
+        },
+        "Ereğli": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1312
+        },
+        "Güneysınır": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1933
+        },
+        "Hadim": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1375
+        },
+        "Halkapınar": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1937
+        },
+        "Hüyük": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1804
+        },
+        "Ilgın": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1400
+        },
+        "Kadınhanı": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1422
+        },
+        "Karapınar": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1441
+        },
+        "Karatay": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1814
+        },
+        "Kulu": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1491
+        },
+        "Meram": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1827
+        },
+        "Sarayönü": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1598
+        },
+        "Selçuklu": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1839
+        },
+        "Seydişehir": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1617
+        },
+        "Taşkent": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1848
+        },
+        "Tuzlukçu": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1990
+        },
+        "Yalıhüyük": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1994
+        },
+        "Yunak": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1735
+        }
+    },
+    "Kütahya": {
+        "Altıntaş": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1132
+        },
+        "Aslanapa": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1764
+        },
+        "Çavdarhisar": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1898
+        },
+        "Domaniç": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1288
+        },
+        "Dumlupınar": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1790
+        },
+        "Emet": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1304
+        },
+        "Gediz": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1339
+        },
+        "Hisarcık": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1802
+        },
+        "Merkez": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1500
+        },
+        "Pazarlar": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1979
+        },
+        "Simav": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1625
+        },
+        "Şaphane": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1843
+        },
+        "Tavşanlı": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1671
+        }
+    },
+    "Malatya": {
+        "Akçadağ": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1114
+        },
+        "Arapgir": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1143
+        },
+        "Arguvan": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1148
+        },
+        "Battalgazi": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1772
+        },
+        "Darende": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1265
+        },
+        "Doğanşehir": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1286
+        },
+        "Doğanyol": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1914
+        },
+        "Hekimhan": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1390
+        },
+        "Kale": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1953
+        },
+        "Kuluncak": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1969
+        },
+        "Pütürge": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1582
+        },
+        "Yazıhan": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1995
+        },
+        "Yeşilyurt": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1729
+        }
+    },
+    "Manisa": {
+        "Ahmetli": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1751
+        },
+        "Akhisar": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1118
+        },
+        "Alaşehir": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1127
+        },
+        "Demirci": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1269
+        },
+        "Gölmarmara": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1793
+        },
+        "Gördes": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1362
+        },
+        "Kırkağaç": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1470
+        },
+        "Köprübaşı": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1965
+        },
+        "Kula": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1489
+        },
+        "Salihli": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1590
+        },
+        "Sarıgöl": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1600
+        },
+        "Saruhanlı": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1606
+        },
+        "Selendi": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1613
+        },
+        "Soma": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1634
+        },
+        "Şehzadeler": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2086
+        },
+        "Turgutlu": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1689
+        },
+        "Yunusemre": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2087
+        }
+    },
+    "Kahramanmaraş": {
+        "Afşin": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1107
+        },
+        "Andırın": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1136
+        },
+        "Çağlayancerit": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1785
+        },
+        "Dulkadiroğlu": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2084
+        },
+        "Ekinözü": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1919
+        },
+        "Elbistan": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1299
+        },
+        "Göksun": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1353
+        },
+        "Nurhak": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1975
+        },
+        "Onikişubat": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2085
+        },
+        "Pazarcık": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1570
+        },
+        "Türkoğlu": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1694
+        }
+    },
+    "Mardin": {
+        "Artuklu": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2088
+        },
+        "Dargeçit": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1787
+        },
+        "Derik": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1273
+        },
+        "Kızıltepe": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1474
+        },
+        "Mazıdağı": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1519
+        },
+        "Midyat": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1526
+        },
+        "Nusaybin": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1547
+        },
+        "Ömerli": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1564
+        },
+        "Savur": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1609
+        },
+        "Yeşilli": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2002
+        }
+    },
+    "Muğla": {
+        "Bodrum": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1197
+        },
+        "Dalaman": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1742
+        },
+        "Datça": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1266
+        },
+        "Fethiye": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1331
+        },
+        "Kavaklıdere": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1958
+        },
+        "Köyceğiz": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1488
+        },
+        "Marmaris": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1517
+        },
+        "Menteşe": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2089
+        },
+        "Milas": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1528
+        },
+        "Ortaca": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1831
+        },
+        "Seydikemer": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2090
+        },
+        "Ula": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1695
+        },
+        "Yatağan": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1719
+        }
+    },
+    "Muş": {
+        "Bulanık": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1213
+        },
+        "Hasköy": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1801
+        },
+        "Korkut": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1964
+        },
+        "Malazgirt": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1510
+        },
+        "Merkez": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1534
+        },
+        "Varto": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1711
+        }
+    },
+    "Nevşehir": {
+        "Acıgöl": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1749
+        },
+        "Avanos": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1155
+        },
+        "Derinkuyu": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1274
+        },
+        "Gülşehir": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1367
+        },
+        "Hacıbektaş": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1374
+        },
+        "Kozaklı": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1485
+        },
+        "Merkez": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1543
+        },
+        "Ürgüp": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1707
+        }
+    },
+    "Niğde": {
+        "Altunhisar": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1876
+        },
+        "Bor": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1201
+        },
+        "Çamardı": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1225
+        },
+        "Çiftlik": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1904
+        },
+        "Merkez": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1544
+        },
+        "Ulukışla": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1700
+        }
+    },
+    "Ordu": {
+        "Akkuş": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1119
+        },
+        "Altınordu": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2103
+        },
+        "Aybastı": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1158
+        },
+        "Çamaş": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1891
+        },
+        "Çatalpınar": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1897
+        },
+        "Çaybaşı": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1900
+        },
+        "Fatsa": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1328
+        },
+        "Gölköy": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1358
+        },
+        "Gülyalı": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1795
+        },
+        "Gürgentepe": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1797
+        },
+        "İkizce": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1947
+        },
+        "Kabadüz": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1950
+        },
+        "Kabataş": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1951
+        },
+        "Korgan": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1482
+        },
+        "Kumru": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1493
+        },
+        "Mesudiye": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1525
+        },
+        "Perşembe": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1573
+        },
+        "Ulubey": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1696
+        },
+        "Ünye": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1706
+        }
+    },
+    "Rize": {
+        "Ardeşen": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1146
+        },
+        "Çamlıhemşin": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1228
+        },
+        "Çayeli": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1241
+        },
+        "Derepazarı": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1908
+        },
+        "Fındıklı": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1332
+        },
+        "Güneysu": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1796
+        },
+        "Hemşin": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1943
+        },
+        "İkizdere": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1405
+        },
+        "İyidere": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1949
+        },
+        "Kalkandere": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1428
+        },
+        "Merkez": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1586
+        },
+        "Pazar": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1569
+        }
+    },
+    "Sakarya": {
+        "Adapazarı": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2068
+        },
+        "Akyazı": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1123
+        },
+        "Arifiye": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2069
+        },
+        "Erenler": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2070
+        },
+        "Ferizli": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1925
+        },
+        "Geyve": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1351
+        },
+        "Hendek": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1391
+        },
+        "Karapürçek": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1955
+        },
+        "Karasu": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1442
+        },
+        "Kaynarca": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1453
+        },
+        "Kocaali": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1818
+        },
+        "Pamukova": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1833
+        },
+        "Sapanca": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1595
+        },
+        "Serdivan": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2071
+        },
+        "Söğütlü": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1986
+        },
+        "Taraklı": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1847
+        }
+    },
+    "Samsun": {
+        "19 Mayıs": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1830
+        },
+        "Alaçam": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1125
+        },
+        "Asarcık": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1763
+        },
+        "Atakum": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2072
+        },
+        "Ayvacık": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1879
+        },
+        "Bafra": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1164
+        },
+        "Canik": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2073
+        },
+        "Çarşamba": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1234
+        },
+        "Havza": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1386
+        },
+        "İlkadım": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2074
+        },
+        "Kavak": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1452
+        },
+        "Ladik": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1501
+        },
+        "Salıpazarı": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1838
+        },
+        "Tekkeköy": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1849
+        },
+        "Terme": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1676
+        },
+        "Vezirköprü": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1712
+        },
+        "Yakakent": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1993
+        }
+    },
+    "Siirt": {
+        "Baykan": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1179
+        },
+        "Eruh": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1317
+        },
+        "Kurtalan": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1495
+        },
+        "Merkez": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1620
+        },
+        "Pervari": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1575
+        },
+        "Şirvan": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1662
+        },
+        "Tillo": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1878
+        }
+    },
+    "Sinop": {
+        "Ayancık": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1156
+        },
+        "Boyabat": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1204
+        },
+        "Dikmen": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1910
+        },
+        "Durağan": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1290
+        },
+        "Erfelek": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1314
+        },
+        "Gerze": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1349
+        },
+        "Merkez": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1627
+        },
+        "Saraydüzü": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1981
+        },
+        "Türkeli": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1693
+        }
+    },
+    "Sivas": {
+        "Akıncılar": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1870
+        },
+        "Altınyayla": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1875
+        },
+        "Divriği": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1282
+        },
+        "Doğanşar": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1913
+        },
+        "Gemerek": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1342
+        },
+        "Gölova": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1927
+        },
+        "Gürün": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1373
+        },
+        "Hafik": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1376
+        },
+        "İmranlı": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1407
+        },
+        "Kangal": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1431
+        },
+        "Koyulhisar": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1484
+        },
+        "Merkez": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1628
+        },
+        "Suşehri": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1646
+        },
+        "Şarkışla": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1650
+        },
+        "Ulaş": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1991
+        },
+        "Yıldızeli": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1731
+        },
+        "Zara": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1738
+        }
+    },
+    "Tekirdağ": {
+        "Çerkezköy": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1250
+        },
+        "Çorlu": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1258
+        },
+        "Ergene": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2094
+        },
+        "Hayrabolu": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1388
+        },
+        "Kapaklı": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2095
+        },
+        "Malkara": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1511
+        },
+        "Marmaraereğlisi": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1825
+        },
+        "Muratlı": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1538
+        },
+        "Saray": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1596
+        },
+        "Süleymanpaşa": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2096
+        },
+        "Şarköy": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1652
+        }
+    },
+    "Tokat": {
+        "Almus": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1129
+        },
+        "Artova": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1151
+        },
+        "Başçiftlik": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1883
+        },
+        "Erbaa": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1308
+        },
+        "Merkez": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1679
+        },
+        "Niksar": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1545
+        },
+        "Pazar": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1834
+        },
+        "Reşadiye": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1584
+        },
+        "Sulusaray": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1987
+        },
+        "Turhal": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1690
+        },
+        "Yeşilyurt": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1858
+        },
+        "Zile": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1740
+        }
+    },
+    "Trabzon": {
+        "Akçaabat": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1113
+        },
+        "Araklı": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1141
+        },
+        "Arsin": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1150
+        },
+        "Beşikdüzü": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1775
+        },
+        "Çarşıbaşı": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1896
+        },
+        "Çaykara": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1244
+        },
+        "Dernekpazarı": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1909
+        },
+        "Düzköy": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1917
+        },
+        "Hayrat": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1942
+        },
+        "Köprübaşı": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1966
+        },
+        "Maçka": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1507
+        },
+        "Of": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1548
+        },
+        "Ortahisar": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2097
+        },
+        "Sürmene": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1647
+        },
+        "Şalpazarı": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1842
+        },
+        "Tonya": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1681
+        },
+        "Vakfıkebir": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1709
+        },
+        "Yomra": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1732
+        }
+    },
+    "Tunceli": {
+        "Çemişgezek": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1247
+        },
+        "Hozat": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1397
+        },
+        "Mazgirt": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1518
+        },
+        "Merkez": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1688
+        },
+        "Nazımiye": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1541
+        },
+        "Ovacık": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1562
+        },
+        "Pertek": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1574
+        },
+        "Pülümür": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1581
+        }
+    },
+    "Şanlıurfa": {
+        "Akçakale": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1115
+        },
+        "Birecik": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1194
+        },
+        "Bozova": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1209
+        },
+        "Ceylanpınar": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1220
+        },
+        "Eyyübiye": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2091
+        },
+        "Halfeti": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1378
+        },
+        "Haliliye": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2092
+        },
+        "Harran": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1800
+        },
+        "Hilvan": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1393
+        },
+        "Karaköprü": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2093
+        },
+        "Siverek": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1630
+        },
+        "Suruç": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1643
+        },
+        "Viranşehir": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1713
+        }
+    },
+    "Uşak": {
+        "Banaz": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1170
+        },
+        "Eşme": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1323
+        },
+        "Karahallı": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1436
+        },
+        "Merkez": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1704
+        },
+        "Sivaslı": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1629
+        },
+        "Ulubey": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1697
+        }
+    },
+    "Van": {
+        "Bahçesaray": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1770
+        },
+        "Başkale": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1175
+        },
+        "Çaldıran": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1786
+        },
+        "Çatak": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1236
+        },
+        "Edremit": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1918
+        },
+        "Erciş": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1309
+        },
+        "Gevaş": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1350
+        },
+        "Gürpınar": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1372
+        },
+        "İpekyolu": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2098
+        },
+        "Muradiye": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1533
+        },
+        "Özalp": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1565
+        },
+        "Saray": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1980
+        },
+        "Tuşba": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2099
+        }
+    },
+    "Yozgat": {
+        "Akdağmadeni": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1117
+        },
+        "Aydıncık": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1877
+        },
+        "Boğazlıyan": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1198
+        },
+        "Çandır": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1895
+        },
+        "Çayıralan": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1242
+        },
+        "Çekerek": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1245
+        },
+        "Kadışehri": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1952
+        },
+        "Merkez": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1733
+        },
+        "Saraykent": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1982
+        },
+        "Sarıkaya": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1602
+        },
+        "Sorgun": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1635
+        },
+        "Şefaatli": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1655
+        },
+        "Yenifakılı": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1998
+        },
+        "Yerköy": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1726
+        }
+    },
+    "Zonguldak": {
+        "Alaplı": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1758
+        },
+        "Çaycuma": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1240
+        },
+        "Devrek": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1276
+        },
+        "Ereğli": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1313
+        },
+        "Gökçebey": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1926
+        },
+        "Kilimli": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2100
+        },
+        "Kozlu": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2101
+        },
+        "Merkez": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1741
+        }
+    },
+    "Aksaray": {
+        "Ağaçören": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1860
+        },
+        "Eskil": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1921
+        },
+        "Gülağaç": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1932
+        },
+        "Güzelyurt": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1861
+        },
+        "Merkez": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1120
+        },
+        "Ortaköy": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1557
+        },
+        "Sarıyahşi": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1866
+        },
+        "Sultanhanı": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2106
+        }
+    },
+    "Bayburt": {
+        "Aydıntepe": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1767
+        },
+        "Demirözü": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1788
+        },
+        "Merkez": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1176
+        }
+    },
+    "Karaman": {
+        "Ayrancı": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1768
+        },
+        "Başyayla": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1884
+        },
+        "Ermenek": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1316
+        },
+        "Kazımkarabekir": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1862
+        },
+        "Merkez": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1439
+        },
+        "Sarıveliler": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1983
+        }
+    },
+    "Kırıkkale": {
+        "Bahşılı": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1880
+        },
+        "Balışeyh": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1882
+        },
+        "Çelebi": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1901
+        },
+        "Delice": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1268
+        },
+        "Karakeçili": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1954
+        },
+        "Keskin": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1463
+        },
+        "Merkez": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1469
+        },
+        "Sulakyurt": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1638
+        },
+        "Yahşihan": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1992
+        }
+    },
+    "Batman": {
+        "Beşiri": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1184
+        },
+        "Gercüş": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1345
+        },
+        "Hasankeyf": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1941
+        },
+        "Kozluk": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1487
+        },
+        "Merkez": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1174
+        },
+        "Sason": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1607
+        }
+    },
+    "Şırnak": {
+        "Beytüşşebap": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1189
+        },
+        "Cizre": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1223
+        },
+        "Güçlükonak": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1931
+        },
+        "İdil": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1403
+        },
+        "Merkez": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1661
+        },
+        "Silopi": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1623
+        },
+        "Uludere": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1698
+        }
+    },
+    "Bartın": {
+        "Amasra": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1761
+        },
+        "Kurucaşile": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1496
+        },
+        "Merkez": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1172
+        },
+        "Ulus": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1701
+        }
+    },
+    "Ardahan": {
+        "Çıldır": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1252
+        },
+        "Damal": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2008
+        },
+        "Göle": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1356
+        },
+        "Hanak": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1380
+        },
+        "Merkez": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1144
+        },
+        "Posof": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1579
+        }
+    },
+    "Iğdır": {
+        "Aralık": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1142
+        },
+        "Karakoyunlu": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2011
+        },
+        "Merkez": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1398
+        },
+        "Tuzluca": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1692
+        }
+    },
+    "Yalova": {
+        "Altınova": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2019
+        },
+        "Armutlu": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2020
+        },
+        "Çınarcık": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2021
+        },
+        "Çiftlikköy": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2022
+        },
+        "Merkez": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1716
+        },
+        "Termal": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2026
+        }
+    },
+    "Karabük": {
+        "Eflani": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1296
+        },
+        "Eskipazar": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1321
+        },
+        "Merkez": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1433
+        },
+        "Ovacık": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1561
+        },
+        "Safranbolu": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1587
+        },
+        "Yenice": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1856
+        }
+    },
+    "Kilis": {
+        "Elbeyli": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2023
+        },
+        "Merkez": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1476
+        },
+        "Musabeyli": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2024
+        },
+        "Polateli": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2025
+        }
+    },
+    "Osmaniye": {
+        "Bahçe": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1165
+        },
+        "Düziçi": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1743
+        },
+        "Hasanbeyli": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2027
+        },
+        "Kadirli": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1423
+        },
+        "Merkez": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1560
+        },
+        "Sumbas": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2028
+        },
+        "Toprakkale": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2029
+        }
+    },
+    "Düzce": {
+        "Akçakoca": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1116
+        },
+        "Cumayeri": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1784
+        },
+        "Çilimli": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1905
+        },
+        "Gölyaka": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1794
+        },
+        "Gümüşova": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2017
+        },
+        "Kaynaşlı": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 2031
+        },
+        "Merkez": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1292
+        },
+        "Yığılca": {
+            "koyler": [],
+            "mahalleler": [],
+            "id": 1730
+        }
+    }
+}
